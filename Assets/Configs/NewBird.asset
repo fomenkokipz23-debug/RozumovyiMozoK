@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6472c149d509c16439ce16c891bda44f, type: 3}
   m_Name: NewBird
   m_EditorClassIdentifier: 
-  birdName: cab
+  birdName: KaB
   birdSprite: {fileID: 21300000, guid: 42bdd5eb215ee5942b54af446bfb30fb, type: 3}
   scoreRequired: 0
-  birdId: cab
+  birdId: KaB
