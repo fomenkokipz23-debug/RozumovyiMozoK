@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: NewBird
   m_EditorClassIdentifier: 
   birdName: KaB
-  birdSprite: {fileID: 21300000, guid: 42bdd5eb215ee5942b54af446bfb30fb, type: 3}
+  birdSprite: {fileID: 21300000, guid: 5e28378cb99dd5c4cbd5ff1534d3ab61, type: 3}
   scoreRequired: 0
   birdId: KaB

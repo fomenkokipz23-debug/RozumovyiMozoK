@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Darth Wader
   m_EditorClassIdentifier: 
   birdName: balictika
-  birdSprite: {fileID: 21300000, guid: e19856f2905feeb4488226069c6e9ef1, type: 3}
+  birdSprite: {fileID: 21300000, guid: e845d572446467d4ab4fe028eea0df70, type: 3}
   scoreRequired: 50
   birdId: balictika

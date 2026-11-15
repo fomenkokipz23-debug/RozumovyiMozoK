@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: champignon
   m_EditorClassIdentifier: 
   birdName: kalibri
-  birdSprite: {fileID: 21300000, guid: 2ba29e3b2005ec84bac46902e289bdd9, type: 3}
+  birdSprite: {fileID: 21300000, guid: a3f6865657e0018429f76a4bfe574012, type: 3}
   scoreRequired: 20
   birdId: kalibri

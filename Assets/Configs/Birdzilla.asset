@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Birdzilla
   m_EditorClassIdentifier: 
   birdName: banderol
-  birdSprite: {fileID: 21300000, guid: b0e9321631658dd44aa07666646970f1, type: 3}
+  birdSprite: {fileID: 21300000, guid: d4668fda50b48c247a3bb996e09ead54, type: 3}
   scoreRequired: 10
   birdId: banderol
